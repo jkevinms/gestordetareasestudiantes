@@ -1,0 +1,202 @@
+body{
+    
+    padding: 0%;
+    margin: 0%;
+}
+
+.botones button{
+    height: 30px;
+}
+.barradebusqueda{
+    background-color: #e7e7e7;
+    width: 300px;
+    height: 40px;
+    margin: 30px;
+    
+}
+.imagen-perfil{
+ width: 50px;
+ height: 50px;
+ border-radius: 100%;
+ margin: auto;  
+ margin-left: 5px;
+    margin-right: 5px;   
+}
+
+.herramientas{
+    display: flex;
+   position:absolute;
+   left: 83%;
+   top: 20px;
+}
+.notis{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    margin: auto;   
+    margin-left: 5px;
+    margin-right: 5px;  
+   }
+.chats{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    margin-left: 5px;
+    margin-right: 5px;   
+   }
+.botones{
+    margin-top: 60px;
+    margin-left:  30px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+}
+.botones-organizacion {
+    display: flex;
+}
+.botones-organizacion div{
+    
+    margin-left: 5px ;
+    margin-right: 5px;
+}
+.botones-organizacion :hover{
+background-color: #3a73b8;
+color: #fff;
+height: 30px;
+    
+}
+.botones-añadir :hover{
+    background-color: #2b65ad;
+color: #fff;
+height: 30px;
+    
+}
+.B-preview{
+background-color: #fff;
+
+}
+.B-ordenar{
+background-color: #fff;
+
+}
+.B-filtrar{
+background-color: #fff;
+
+
+}
+.botones-añadir{
+    position: absolute;
+    top: 130px;
+    left: 85%;
+}
+.B-tarea{
+    border: 0px;
+    background-color: #3a73b8;
+    color: #fff;
+}
+.Indicadores-progresos{
+    display: flex;
+}
+.Indicadores-progresos div{
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 30px;
+    width: 350px;
+    border: 3px;
+    border-color: #3a73b8;
+    border-style: solid;
+    border-radius: 5px;
+}
+.Datos-Indicadores{
+    margin-top: 30px;
+    margin-left:  30px;
+    margin-right:  30px;
+    display: flex;
+}
+.Datos-Indicadores2{
+    position: relative;
+    left: 110px;
+    margin-top: 30px;
+    margin-left:  30px;
+    margin-right:  30px;
+    display: flex;
+}
+.Datos-Indicadores3{
+    position: relative;
+    left: 216px;
+    margin-top: 30px;
+    margin-left:  30px;
+    margin-right:  30px;
+    
+    display: flex;
+}
+.Datos-Indicadores button{
+    margin-left:  10px;
+    margin-right: 10px;
+}
+.Datos-Indicadores2 button{
+    
+    margin-left:  10px;
+    margin-right: 10px;
+  
+}
+.Datos-Indicadores3 button{
+    margin-left:  10px;
+    margin-right: 10px;
+    
+}
+.tarjetas{
+    height: 400px;
+}
+.tarjetas div{  
+    font-size: 20px;  
+    background-color: #e8e8e8;
+    height: 300px;
+    width: 350px;
+    margin-left:  30px;
+    margin-right: 30px;
+   
+}
+.tarjeta1{
+
+}
+.tarjeta2{
+    position: relative;
+bottom: 316px;
+left: 415px;
+}
+.tarjeta3{
+    position: relative;
+    bottom: 632px;
+    left: 835px; 
+}
+.parrafos {
+    padding-top: 20px;
+    padding: 10px;
+}
+.titulo{
+    font-weight: bold;
+    font-size: 30px;
+    padding-bottom:  30px;
+}
+.b-high{
+background-color: #ffd1d1;
+border: 0px;
+}
+.b-tiempo{
+background-color: #fae4a7;
+border: 0px;
+}
+.b-diseno{
+    background-color: #ece5ff;
+    border: 0px;
+}
+.imagen-tarjetas{
+    width: 30px;
+    height: 30px;
+    float: right;
+}
+.buscar{
+    width: 30px;
+    height: 30px;
+    float: right;   
+}
